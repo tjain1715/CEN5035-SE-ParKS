@@ -1,0 +1,135 @@
+{ 
+  "101":  {
+    "firstName": "Jack",
+    "lastName": "Cooper",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126 Udhna",
+        "city": "san jone",
+        "state": "CA",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 3,
+    "rentPerHour": "$5",
+    "rentPerDay": "$20"
+  },
+  "102":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  },
+  "103":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  },
+  "104":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  }, 
+  "105":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  },
+  "106":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  },
+  "107":  {
+    "firstName": "Shaun",
+    "lastName": "G",
+    "gender": "man",
+    "age": 25,
+    "address": {
+        "streetAddress": "128 Udhna",
+        "city": "Boston",
+        "state": "MA",
+        "postalCode": "02145"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ],
+    "lotDimension": "9*18",
+    "numberOfLots": 2,
+    "rentPerHour": "$6",
+    "rentPerDay": "$25"
+  }  
+}
